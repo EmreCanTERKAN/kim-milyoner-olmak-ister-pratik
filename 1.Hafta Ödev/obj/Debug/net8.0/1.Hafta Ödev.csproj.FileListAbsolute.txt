@@ -1,0 +1,14 @@
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\bin\Debug\net8.0\1.Hafta Ödev.exe
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\bin\Debug\net8.0\1.Hafta Ödev.deps.json
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\bin\Debug\net8.0\1.Hafta Ödev.runtimeconfig.json
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\bin\Debug\net8.0\1.Hafta Ödev.dll
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\bin\Debug\net8.0\1.Hafta Ödev.pdb
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.AssemblyInfoInputs.cache
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.AssemblyInfo.cs
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.csproj.CoreCompileInputs.cache
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.dll
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\refint\1.Hafta Ödev.dll
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.pdb
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\1.Hafta Ödev.genruntimeconfig.cache
+C:\Users\terka\OneDrive\Masaüstü\YAZILIM\C#\1.Hafta Ödev\obj\Debug\net8.0\ref\1.Hafta Ödev.dll
