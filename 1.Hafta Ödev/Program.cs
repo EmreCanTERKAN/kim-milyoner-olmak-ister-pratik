@@ -67,7 +67,7 @@ class Program
             }
             else if (cevap3 == "a")
             {
-                Console.WriteLine("Yanlış cevap. Doğru cevap: a) Yuvarlaktır");
+                Console.WriteLine("Yanlış cevap. Doğru cevap: b) Yuvarlaktır");
             }
             else
             {
